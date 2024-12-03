@@ -1,14 +1,13 @@
-프론트를 조금 곁들인 백엔드 개발자를 목표로 하고 있습니다 
+1인분 백엔드 개발자가 되는 게 목표입니다.
+
 
 email: apbel@naver.com  
 blog: https://velog.io/@hyungman304/posts  
 
 [기술 스택]  
-Spring boot3, Spring security 6, Jpa  
-thymeleaf, javascript, bootstrap
+Spring (boot3, security6, data jpa)  
+React / Next.js  
 
-공부 중..    
-Spring Data Jpa, react, next-js
 
 <!---
 - 👋 Hi, I’m @kimtaehyun304
