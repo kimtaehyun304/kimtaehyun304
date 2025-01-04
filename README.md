@@ -1,5 +1,5 @@
 목표! 1.5인분 개발자  
-안녕하세요 백엔드 개발자 근데 프론트를 곁들인 입니다.
+안녕하세요 백엔드 개발자 연습생입니다. 근데 프론트도 곁들인.
 
 email: apbel@naver.com  
 blog: https://velog.io/@hyungman304/posts  
