@@ -1,11 +1,11 @@
-목표! 1인분 백엔드 개발자 (프론트를 곁들인)
+목표! 1인분 백엔드 개발자 근데 프론트를 곁들인
 
 email: apbel@naver.com  
 blog: https://velog.io/@hyungman304/posts  
 
 [기술 스택]  
 Spring (boot3, security6, data jpa)  
-React / Next.js  
+React18 / Next.js15   
 
 
 <!---
