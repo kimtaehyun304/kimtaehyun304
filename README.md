@@ -1,4 +1,4 @@
-목표! 1인분 백엔드 개발자 근데 프론트를 곁들인
+목표! 1인분 백엔드 개발자 근데 프론트를 곁들인.
 
 email: apbel@naver.com  
 blog: https://velog.io/@hyungman304/posts  
