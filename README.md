@@ -1,4 +1,5 @@
-목표! 1.5인분 백엔드 개발자 근데 프론트를 곁들인.
+목표! 1.5인분 개발자  
+안녕하세요 백엔드 개발자 근데 프론트를 곁들인 입니다.
 
 email: apbel@naver.com  
 blog: https://velog.io/@hyungman304/posts  
@@ -6,7 +7,6 @@ blog: https://velog.io/@hyungman304/posts
 [기술 스택]  
 Spring (boot3, security6, data jpa)  
 React18 / Next.js15   
-
 
 <!---
 - 👋 Hi, I’m @kimtaehyun304
