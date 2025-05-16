@@ -1,12 +1,9 @@
-목표! 1.5인분 개발자  
-안녕하세요 백엔드 개발자 연습생입니다. 근데 프론트도 곁들인.
+안녕하세요 백엔드 개발 지망생입니다.  
+원활한 개발을 위해 풀스택도 공부하는 중입니다.
 
 email: apbel@naver.com  
 blog: https://velog.io/@hyungman304/posts  
 
-[기술 스택]  
-Spring (boot3, security6, data jpa)  
-React18 / Next.js15   
 
 <!---
 - 👋 Hi, I’m @kimtaehyun304
