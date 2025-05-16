@@ -1,5 +1,7 @@
 안녕하세요 백엔드 개발 지망생입니다.  
-원활한 개발을 위해 풀스택도 공부하는 중입니다.
+원활한 개발을 위해 풀스택도 공부하는 중입니다.  
+
+Spring / React / DevOps   
 
 email: apbel@naver.com  
 blog: https://velog.io/@hyungman304/posts  
