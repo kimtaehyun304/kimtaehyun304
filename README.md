@@ -1,6 +1,6 @@
 안녕하세요 백엔드 개발 지망생입니다.  
 
-Spring / React / DevOps   
+Spring / React & Next.js / DevOps   
 
 email: apbel@naver.com  
 blog: https://velog.io/@hyungman304/posts  
