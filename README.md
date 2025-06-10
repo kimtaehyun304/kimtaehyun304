@@ -1,6 +1,6 @@
 안녕하세요 백엔드 개발 지망생입니다.  
 
-Spring / React & Next.js / DevOps  
+Spring / Next.js / DevOps  
 
 ThymeLeaf / Jsp  
 
