@@ -1,4 +1,4 @@
-백엔드 or 풀스택 개발 지망생입니다.  
+백엔드 or 풀스택 개발 지망생
 
 Spring / Next.js / DevOps  
 
