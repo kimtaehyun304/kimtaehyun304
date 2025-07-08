@@ -1,8 +1,8 @@
-백엔드 or 풀스택 개발 지망생
+[백엔드] spring, data jpa + queryDsl  
 
-Spring / Next.js / DevOps  
+[프론트] next.js, jsp  
 
-ThymeLeaf / Jsp  
+[데브옵스] aws, ci_cd  
 
 email: apbel@naver.com  
 blog: https://velog.io/@hyungman304/posts  
