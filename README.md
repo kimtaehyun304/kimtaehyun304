@@ -1,10 +1,12 @@
-[백엔드] spring, data jpa + queryDsl  
+기술 스택
+<ul>
+  <li>spring·jpa·queryDsl</li>
+  <li>next.js·typeScript·tailwindl</li>
+  <li>aws·docker·무중단 배포· 배포 자동화·nginx</li>
+</ul>
 
-[프론트] next.js, jsp  
+풀스택을 지향하고, 클린 코드·보안에도 신경쓰고 있습니다.  
 
-[데브옵스] aws, ci_cd  
-
-클린 코드, 보안에도 신경을 쓰고 있습니다.  
 email: apbel@naver.com  
 blog: https://velog.io/@hyungman304/posts  
 
