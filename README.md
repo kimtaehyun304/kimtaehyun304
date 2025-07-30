@@ -1,7 +1,7 @@
 기술 스택
 <ul>
   <li>spring·jpa·queryDsl</li>
-  <li>next.js·typeScript·tailwindl</li>
+  <li>next.js·typeScript·tailwind</li>
   <li>aws·docker·무중단 배포· 배포 자동화·nginx</li>
 </ul>
 
