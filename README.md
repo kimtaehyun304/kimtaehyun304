@@ -2,10 +2,10 @@
 <ul>
   <li>spring·jpa·queryDsl</li>
   <li>next.js·typeScript·tailwind</li>
-  <li>aws·docker·무중단 배포· 배포 자동화·nginx</li>
+  <li>aws·cicd·docker·nginx</li>
 </ul>
 
-풀스택을 지망하고, 클린 코드·보안을 신경쓰고 있습니다.  
+백엔드를 지망하지만 풀스택도 긍정합니다
 
 email: apbel@naver.com  
 blog: https://velog.io/@hyungman304/posts  
