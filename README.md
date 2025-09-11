@@ -5,7 +5,7 @@
   <li>aws, cicd, docker, nginx</li>
 </ul>
 
-백엔드를 지망하지만 풀스택도 OK입니다
+백엔드를 지망합니다.
 
 email: apbel@naver.com  
 blog: https://velog.io/@hyungman304/posts  
