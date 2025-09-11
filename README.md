@@ -1,8 +1,8 @@
 기술 스택
 <ul>
-  <li>spring·jpa·queryDsl</li>
-  <li>next.js·typeScript·tailwind</li>
-  <li>aws·cicd·docker·nginx</li>
+  <li>spring, jpa, queryDsl</li>
+  <li>next.js, typeScript, tailwind</li>
+  <li>aws, cicd, docker, nginx</li>
 </ul>
 
 백엔드를 지망하지만 풀스택도 OK입니다
