@@ -5,6 +5,12 @@
   <li>aws, cicd, docker, nginx</li>
 </ul>
 
+속도·안정성
+<ul>
+  <li>sql 튜닝, 인덱스</li>
+  <li>캐싱, 비동기</li>
+</ul>
+
 백엔드 및 풀스택을 지망합니다.
 
 email: apbel@naver.com  
