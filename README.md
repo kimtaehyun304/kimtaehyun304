@@ -5,7 +5,7 @@
   <li>aws, cicd, docker, nginx</li>
 </ul>
 
-속도·안정성
+기본기 및 심화
 <ul>
   <li>sql 튜닝, 인덱스</li>
   <li>캐싱, 비동기</li>
