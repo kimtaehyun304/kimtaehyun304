@@ -11,7 +11,7 @@
   <li>캐싱, 비동기</li>
 </ul>
 
-백엔드 및 풀스택을 지망합니다.
+1지망 백엔드 / 2지망 풀스택 / 3지망 프론트
 
 email: apbel@naver.com  
 blog: https://velog.io/@hyungman304/posts  
