@@ -11,7 +11,7 @@
   <li>캐시, 비동기, 이벤트</li>
 </ul>
 
-1지망 백엔드 / 2지망 풀스택 / 3지망 프론트
+1지망 백엔드 / 2지망 풀스택 / 3지망 프론트 / 4지망 devOps
 
 email: apbel@naver.com  
 blog: https://velog.io/@hyungman304/posts  
